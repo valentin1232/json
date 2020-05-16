@@ -1,1 +1,16 @@
-[{"recommendation_id":5,"username":"PACIENT2","start_date":"2020-05-05T00:00:00.000+0000","end_date":"2020-06-09T00:00:00.000+0000","recommend_id":2,"comments":"Bicicletteateataeh"},{"recommendation_id":6,"username":"PACIENT1","start_date":"2020-05-26T00:00:00.000+0000","end_date":"2020-05-29T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},{"recommendation_id":7,"username":"PACIENT2","start_date":"2020-05-26T00:00:00.000+0000","end_date":"2020-05-29T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},{"recommendation_id":8,"username":"PACIENT2","start_date":"2020-06-02T00:00:00.000+0000","end_date":"2020-06-12T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},{"recommendation_id":9,"username":"PACIENT2","start_date":"2020-06-05T00:00:00.000+0000","end_date":"2020-06-15T00:00:00.000+0000","recommend_id":1,"comments":"CommentariiPACIENT2"}]
+  {
+  "posts": [
+    {"recommendation_id":5,"username":"PACIENT2","start_date":"2020-05-05T00:00:00.000+0000","end_date":"2020-06-09T00:00:00.000+0000","recommend_id":2,"comments":"Bicicletteateataeh"},
+    {"recommendation_id":6,"username":"PACIENT1","start_date":"2020-05-26T00:00:00.000+0000","end_date":"2020-05-29T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},
+    {"recommendation_id":7,"username":"PACIENT2","start_date":"2020-05-26T00:00:00.000+0000","end_date":"2020-05-29T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},
+    {"recommendation_id":8,"username":"PACIENT2","start_date":"2020-06-02T00:00:00.000+0000","end_date":"2020-06-12T00:00:00.000+0000","recommend_id":2,"comments":"Commentarii"},
+    {"recommendation_id":9,"username":"PACIENT2","start_date":"2020-06-05T00:00:00.000+0000","end_date":"2020-06-15T00:00:00.000+0000","recommend_id":1,"comments":"CommentariiPACIENT2"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
